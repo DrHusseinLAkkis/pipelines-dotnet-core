@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: agent123
+pool: Default
 
 
 
