@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool:
-  vmImage: hlagent1
+pool: baabdaselfhosted
+
 
 variables:
   buildConfiguration: 'Release'
