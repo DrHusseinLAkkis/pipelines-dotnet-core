@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: hlagent
+pool: hlpool12
 
 
 
